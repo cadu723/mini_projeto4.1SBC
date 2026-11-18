@@ -1,6 +1,6 @@
 # Mini-Projeto 4 — Base de Doenças em Grafo de Propriedades (Memgraph + Cypher)
 
-Equipe: <nomes>
+Equipe: Caio Eduardo e David Alves
 
 Refaz o Mini-Projeto 3 (ontologia RDF/OWL de doenças, sintomas e tratamentos) como grafo
 de propriedades, persistido no Memgraph (Docker) e consultado com Cypher.
